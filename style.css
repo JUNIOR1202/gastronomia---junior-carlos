@@ -32,5 +32,6 @@ section {
         height: 200px;
     }
     .categorias-videos{
-        display:flex
+        display:flexoveflow-x:auto;
+        gap: 10px
     }
