@@ -11,7 +11,7 @@ header {
     font-size: 32px;
     color: rgb(0, 0, 0)
 }
-section {
+.chamada {
         background: rgb(0, 0, 255);
         padding-bottom: 80px;
         padding-top: 80px;
@@ -35,7 +35,7 @@ section {
         display:flexoveflow-x:auto;
         gap: 10px
     }
-    section {
+    .categoria {
         padding-left: 20px;
         padding-right: 2px;   
     }
