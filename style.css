@@ -35,3 +35,7 @@ section {
         display:flexoveflow-x:auto;
         gap: 10px
     }
+    section {
+        padding-left: 20px;
+        padding-right: 2px;   
+    }
