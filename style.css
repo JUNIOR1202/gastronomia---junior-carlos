@@ -31,3 +31,6 @@ section {
     img {
         height: 200px;
     }
+    .categorias-videos{
+        display:flex
+    }
